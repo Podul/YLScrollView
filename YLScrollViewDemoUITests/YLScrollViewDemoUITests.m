@@ -1,18 +1,18 @@
 //
-//  YLScrollViewUITests.m
-//  YLScrollViewUITests
+//  YLScrollViewDemoUITests.m
+//  YLScrollViewDemoUITests
 //
-//  Created by musjoy on 2017/9/6.
+//  Created by musjoy on 2017/9/7.
 //  Copyright © 2017年 Podul. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface YLScrollViewUITests : XCTestCase
+@interface YLScrollViewDemoUITests : XCTestCase
 
 @end
 
-@implementation YLScrollViewUITests
+@implementation YLScrollViewDemoUITests
 
 - (void)setUp {
     [super setUp];

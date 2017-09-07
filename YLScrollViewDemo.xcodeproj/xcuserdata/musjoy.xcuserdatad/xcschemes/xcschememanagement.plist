@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>YLScrollView.xcscheme</key>
+		<key>YLScrollViewDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>92C1C01D1F5FECD600C60898</key>
+		<key>927591931F60FFFC002E5FCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>92C1C0361F5FECD700C60898</key>
+		<key>927591AC1F60FFFC002E5FCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>92C1C0411F5FECD700C60898</key>
+		<key>927591B71F60FFFC002E5FCE</key>
 		<dict>
 			<key>primary</key>
 			<true/>

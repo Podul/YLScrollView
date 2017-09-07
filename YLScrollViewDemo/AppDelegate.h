@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  YLScrollView
+//  YLScrollViewDemo
 //
-//  Created by Podul on 2017/9/6.
+//  Created by Podul on 2017/9/7.
 //  Copyright © 2017年 Podul. All rights reserved.
 //
 

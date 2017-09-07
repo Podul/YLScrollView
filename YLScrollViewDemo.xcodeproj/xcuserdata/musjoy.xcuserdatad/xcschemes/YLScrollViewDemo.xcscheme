@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92C1C01D1F5FECD600C60898"
-               BuildableName = "YLScrollView.app"
-               BlueprintName = "YLScrollView"
-               ReferencedContainer = "container:YLScrollView.xcodeproj">
+               BlueprintIdentifier = "927591931F60FFFC002E5FCE"
+               BuildableName = "YLScrollViewDemo.app"
+               BlueprintName = "YLScrollViewDemo"
+               ReferencedContainer = "container:YLScrollViewDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92C1C0361F5FECD700C60898"
-               BuildableName = "YLScrollViewTests.xctest"
-               BlueprintName = "YLScrollViewTests"
-               ReferencedContainer = "container:YLScrollView.xcodeproj">
+               BlueprintIdentifier = "927591AC1F60FFFC002E5FCE"
+               BuildableName = "YLScrollViewDemoTests.xctest"
+               BlueprintName = "YLScrollViewDemoTests"
+               ReferencedContainer = "container:YLScrollViewDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92C1C0411F5FECD700C60898"
-               BuildableName = "YLScrollViewUITests.xctest"
-               BlueprintName = "YLScrollViewUITests"
-               ReferencedContainer = "container:YLScrollView.xcodeproj">
+               BlueprintIdentifier = "927591B71F60FFFC002E5FCE"
+               BuildableName = "YLScrollViewDemoUITests.xctest"
+               BlueprintName = "YLScrollViewDemoUITests"
+               ReferencedContainer = "container:YLScrollViewDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92C1C01D1F5FECD600C60898"
-            BuildableName = "YLScrollView.app"
-            BlueprintName = "YLScrollView"
-            ReferencedContainer = "container:YLScrollView.xcodeproj">
+            BlueprintIdentifier = "927591931F60FFFC002E5FCE"
+            BuildableName = "YLScrollViewDemo.app"
+            BlueprintName = "YLScrollViewDemo"
+            ReferencedContainer = "container:YLScrollViewDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92C1C01D1F5FECD600C60898"
-            BuildableName = "YLScrollView.app"
-            BlueprintName = "YLScrollView"
-            ReferencedContainer = "container:YLScrollView.xcodeproj">
+            BlueprintIdentifier = "927591931F60FFFC002E5FCE"
+            BuildableName = "YLScrollViewDemo.app"
+            BlueprintName = "YLScrollViewDemo"
+            ReferencedContainer = "container:YLScrollViewDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92C1C01D1F5FECD600C60898"
-            BuildableName = "YLScrollView.app"
-            BlueprintName = "YLScrollView"
-            ReferencedContainer = "container:YLScrollView.xcodeproj">
+            BlueprintIdentifier = "927591931F60FFFC002E5FCE"
+            BuildableName = "YLScrollViewDemo.app"
+            BlueprintName = "YLScrollViewDemo"
+            ReferencedContainer = "container:YLScrollViewDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
