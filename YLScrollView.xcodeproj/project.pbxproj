@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		927590721F60DA8A002E5FCE /* ChildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 927590711F60DA8A002E5FCE /* ChildViewController.m */; };
 		92C1C0231F5FECD600C60898 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 92C1C0221F5FECD600C60898 /* main.m */; };
 		92C1C0261F5FECD600C60898 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 92C1C0251F5FECD600C60898 /* AppDelegate.m */; };
 		92C1C0291F5FECD600C60898 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 92C1C0281F5FECD600C60898 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		927590701F60DA8A002E5FCE /* ChildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChildViewController.h; sourceTree = "<group>"; };
+		927590711F60DA8A002E5FCE /* ChildViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChildViewController.m; sourceTree = "<group>"; };
 		92C1C01E1F5FECD600C60898 /* YLScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YLScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92C1C0221F5FECD600C60898 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		92C1C0241F5FECD600C60898 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -108,6 +111,8 @@
 				92C1C0251F5FECD600C60898 /* AppDelegate.m */,
 				92C1C0271F5FECD600C60898 /* ViewController.h */,
 				92C1C0281F5FECD600C60898 /* ViewController.m */,
+				927590701F60DA8A002E5FCE /* ChildViewController.h */,
+				927590711F60DA8A002E5FCE /* ChildViewController.m */,
 				92C1C0541F5FED0D00C60898 /* YLScrollView.h */,
 				92C1C0551F5FED0D00C60898 /* YLScrollView.m */,
 				92C1C02A1F5FECD600C60898 /* Main.storyboard */,
@@ -280,6 +285,7 @@
 			files = (
 				92C1C0561F5FED0D00C60898 /* YLScrollView.m in Sources */,
 				92C1C0291F5FECD600C60898 /* ViewController.m in Sources */,
+				927590721F60DA8A002E5FCE /* ChildViewController.m in Sources */,
 				92C1C0261F5FECD600C60898 /* AppDelegate.m in Sources */,
 				92C1C0231F5FECD600C60898 /* main.m in Sources */,
 			);
@@ -515,6 +521,7 @@
 				92C1C04D1F5FECD700C60898 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92C1C04E1F5FECD700C60898 /* Build configuration list for PBXNativeTarget "YLScrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +530,7 @@
 				92C1C0501F5FECD700C60898 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92C1C0511F5FECD700C60898 /* Build configuration list for PBXNativeTarget "YLScrollViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -531,6 +539,7 @@
 				92C1C0531F5FECD700C60898 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

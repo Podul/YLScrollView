@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  YLScrollView
 //
-//  Created by musjoy on 2017/9/6.
+//  Created by Podul on 2017/9/6.
 //  Copyright © 2017年 Podul. All rights reserved.
 //
 
