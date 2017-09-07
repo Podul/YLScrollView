@@ -12,6 +12,10 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "延迟加载 childViewController 的 view."
 
+  s.description  = <<-DESC 
+                          init
+                   DESC
+  
   s.homepage     = "https://github.com/Podul/YLScrollView"
   s.license      = "MIT"
   s.author             = { "Podul" => "ylpodul@gmail.com" }
